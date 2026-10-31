@@ -1,0 +1,1381 @@
+{
+  "version": "v1",
+  "generated": "2026-10-31",
+  "quality": 82,
+  "counts": {
+    "gas": 54,
+    "stove": 55,
+    "water": 21,
+    "accessories": 22
+  },
+  "files": [
+    {
+      "path": "banners/v1/category/gas/01.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-00e8deaf-9938-460d-9c09-65c230ba52c0.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 132226
+    },
+    {
+      "path": "banners/v1/category/gas/02.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-03669d35-cca3-416a-8720-b46b37c3b6b7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 214912
+    },
+    {
+      "path": "banners/v1/category/gas/03.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-0410eb3d-b6bb-4adb-95e2-7c7f75098c71.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 114424
+    },
+    {
+      "path": "banners/v1/category/gas/04.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-094f26a8-85fd-4d5d-8ac2-3c77357525a7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 124966
+    },
+    {
+      "path": "banners/v1/category/gas/05.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-0bf14f5f-ae58-4068-8744-4f1566eeb086.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 147314
+    },
+    {
+      "path": "banners/v1/category/gas/06.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-0d4aed1b-8c36-4c4c-aae2-2a0bfb988806.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 69972
+    },
+    {
+      "path": "banners/v1/category/gas/07.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-0e616f6f-00b6-4544-95b2-0f547e5a99fa.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 69770
+    },
+    {
+      "path": "banners/v1/category/gas/08.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-1c6605ef-6c69-4f96-8c8c-3fae853db2c3.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 139826
+    },
+    {
+      "path": "banners/v1/category/gas/09.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-2b7ad318-850e-4bc1-a78e-5b1460201310.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 204434
+    },
+    {
+      "path": "banners/v1/category/gas/10.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-2bd81277-d035-4e04-a5a8-9a026db22f77.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 72284
+    },
+    {
+      "path": "banners/v1/category/gas/11.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-2f694bde-bb7c-4701-81ef-8eef365838d9.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 127580
+    },
+    {
+      "path": "banners/v1/category/gas/12.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-38b23de9-fdc4-4ebe-b709-73cced140c7a.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 171078
+    },
+    {
+      "path": "banners/v1/category/gas/13.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-38bba5b4-589f-48cf-aaaa-fb0dee6d7ed4.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 241784
+    },
+    {
+      "path": "banners/v1/category/gas/14.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-3bc71c72-245a-4224-94e3-faaf282a4019.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 80912
+    },
+    {
+      "path": "banners/v1/category/gas/15.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-3c43c8c5-b128-42c8-8604-d039d2553b7e.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 120644
+    },
+    {
+      "path": "banners/v1/category/gas/16.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-4535e18a-c86f-4e83-84f1-02f037034601.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 109794
+    },
+    {
+      "path": "banners/v1/category/gas/17.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-4829f12b-771d-4e53-9818-4e5ecf310179.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 155510
+    },
+    {
+      "path": "banners/v1/category/gas/18.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-54c30d0a-0eda-4b2c-9714-fd3695500631.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 370516
+    },
+    {
+      "path": "banners/v1/category/gas/19.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-57ad7a62-81a8-42d8-b483-8737c10420da.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 84146
+    },
+    {
+      "path": "banners/v1/category/gas/20.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-57ddd4f9-ac19-4dc6-b4a9-565dcec3b4e9.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 137930
+    },
+    {
+      "path": "banners/v1/category/gas/21.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-5affb9cc-ecc0-4a16-bc5c-766cc178d346.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 177578
+    },
+    {
+      "path": "banners/v1/category/gas/22.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-5be90241-4dfa-4851-b4d6-f3e642e0537b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 95008
+    },
+    {
+      "path": "banners/v1/category/gas/23.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-5f13d62f-4489-4c87-b759-3b7907b5b433.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 146098
+    },
+    {
+      "path": "banners/v1/category/gas/24.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-61196b1a-c46e-40d3-ad63-35be09dfbeff.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 174878
+    },
+    {
+      "path": "banners/v1/category/gas/25.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-63fd1559-c75b-4a36-914e-486d2c3a232d.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 114110
+    },
+    {
+      "path": "banners/v1/category/gas/26.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-670c72cd-2108-4473-a666-6a9978792767.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 146612
+    },
+    {
+      "path": "banners/v1/category/gas/27.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-6ad6b67f-a550-4f81-bc2d-449fc31c92f0.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 139326
+    },
+    {
+      "path": "banners/v1/category/gas/28.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-6cdab5c0-ab21-4636-8caf-757b6b1f39db.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 121560
+    },
+    {
+      "path": "banners/v1/category/gas/29.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-6fd4d988-a0f3-4375-b8aa-5789617352b4.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 88410
+    },
+    {
+      "path": "banners/v1/category/gas/30.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-72145dc7-7c25-45b6-a79f-d75ed0ab7e54.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 117552
+    },
+    {
+      "path": "banners/v1/category/gas/31.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-73c0846a-a1f0-4052-bec7-e7bda48d2fe6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 250470
+    },
+    {
+      "path": "banners/v1/category/gas/32.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-7845a9f9-cf83-427b-9c88-5d0a095e2adc.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 228480
+    },
+    {
+      "path": "banners/v1/category/gas/33.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-7904de9d-0071-4765-95ba-2a2ef1ebfdba.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 181480
+    },
+    {
+      "path": "banners/v1/category/gas/34.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-7bf2f7dc-9e40-482d-8780-caf02ebe63e5.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 127086
+    },
+    {
+      "path": "banners/v1/category/gas/35.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-7e6bccde-77e6-4126-af8b-f75f1446caed.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 159244
+    },
+    {
+      "path": "banners/v1/category/gas/36.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-8bb8417b-22be-4c0a-836e-fb22dd2721c7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 126464
+    },
+    {
+      "path": "banners/v1/category/gas/37.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-945b347a-12a8-41f1-b521-c30338358b5b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 103562
+    },
+    {
+      "path": "banners/v1/category/gas/38.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-9c3a4c32-492c-4e1e-b0e3-f5afc2750244.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 138086
+    },
+    {
+      "path": "banners/v1/category/gas/39.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-9cfd7d43-ac6e-4562-af96-8dd38b4052ae.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 176340
+    },
+    {
+      "path": "banners/v1/category/gas/40.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-a3e233df-efad-4df2-abc2-12184e0088f6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 257068
+    },
+    {
+      "path": "banners/v1/category/gas/41.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-a9da50b6-2995-41c0-b63e-e3f20499ae30.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 161356
+    },
+    {
+      "path": "banners/v1/category/gas/42.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-d687210d-6909-4c47-a5f9-929febf07725.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 215694
+    },
+    {
+      "path": "banners/v1/category/gas/43.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-db46e4af-6f8c-40a0-9e04-408260765095.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 158764
+    },
+    {
+      "path": "banners/v1/category/gas/44.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-dcf52e49-d47b-4188-87b0-43e3ee410a70.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 206890
+    },
+    {
+      "path": "banners/v1/category/gas/45.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-e93c4439-246f-4b44-96d4-03ae48362d56.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 149194
+    },
+    {
+      "path": "banners/v1/category/gas/46.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-f5164a7d-f9e5-437c-aa0a-f2c55b785291.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 138682
+    },
+    {
+      "path": "banners/v1/category/gas/47.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-f7270693-0710-44e0-8e2d-588cd3112508.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 205404
+    },
+    {
+      "path": "banners/v1/category/gas/48.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-f7da50c3-a6e8-4bcb-ad96-06e862bdb1a5.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 207712
+    },
+    {
+      "path": "banners/v1/category/gas/49.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-f82f096e-da17-4a28-b805-3608f75e634c.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 130716
+    },
+    {
+      "path": "banners/v1/category/gas/50.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-fcc4814d-5b68-45ec-9345-42a64990f379.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 148686
+    },
+    {
+      "path": "banners/v1/category/gas/51.webp",
+      "category": "gas",
+      "sourceFolder": "Bình Gas",
+      "source": "exec-fe8ae485-a455-43a4-aa93-0a8429d2aaa2.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 96594
+    },
+    {
+      "path": "banners/v1/category/stove/01.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-02aef21f-a8f4-4830-931d-59f361aba412.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 91706
+    },
+    {
+      "path": "banners/v1/category/stove/02.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-02b8ae00-7a98-472d-b119-2b738c51515e.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 146208
+    },
+    {
+      "path": "banners/v1/category/stove/03.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-0ec89af7-34b1-4c68-8742-8a679c2a8164.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 157556
+    },
+    {
+      "path": "banners/v1/category/stove/04.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-1954a3d9-718c-418b-8d3a-933ec9630773.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 147402
+    },
+    {
+      "path": "banners/v1/category/stove/05.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-19f69981-9693-4b3a-8022-566982113482.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 90272
+    },
+    {
+      "path": "banners/v1/category/stove/06.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-1adfbc2c-5fda-44bd-a836-ca7d10d66499.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 325770
+    },
+    {
+      "path": "banners/v1/category/stove/07.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-1b7f61f6-a47c-4350-97e3-b467ff290863.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 132066
+    },
+    {
+      "path": "banners/v1/category/gas/52.webp",
+      "category": "gas",
+      "sourceFolder": "Bếp",
+      "source": "exec-1c295283-019e-42f5-999e-dd4c5adb8afb.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 326150
+    },
+    {
+      "path": "banners/v1/category/stove/08.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-1d240c5c-55f3-4042-b4a9-7e8563fe4b2e.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 271842
+    },
+    {
+      "path": "banners/v1/category/stove/09.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-200b799d-052f-4122-903f-8ab8ade798f7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 155776
+    },
+    {
+      "path": "banners/v1/category/stove/10.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-242e989f-6294-4ce9-be29-ec07798887a1.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 57428
+    },
+    {
+      "path": "banners/v1/category/stove/11.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-251fd7ed-7895-4662-84a4-fae34536e9be.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 95850
+    },
+    {
+      "path": "banners/v1/category/stove/12.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-27722b3b-88cc-4a9c-b231-2f34bda6cee6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 94994
+    },
+    {
+      "path": "banners/v1/category/stove/13.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-28ffef59-b689-46ec-96bf-0d287aa7928a.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 81792
+    },
+    {
+      "path": "banners/v1/category/stove/14.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-2c7e3521-6f96-4d44-b6f9-8c87f883ab80.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 109360
+    },
+    {
+      "path": "banners/v1/category/stove/15.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-2fb76bcf-ae5e-4633-aceb-4c18915ff254.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 105370
+    },
+    {
+      "path": "banners/v1/category/stove/16.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-2fee0057-018d-4bb1-87c3-fec26ec0939f.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 100098
+    },
+    {
+      "path": "banners/v1/category/stove/17.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-32ad8e68-ca8a-4c58-ae0b-53b930e965a6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 131288
+    },
+    {
+      "path": "banners/v1/category/gas/53.webp",
+      "category": "gas",
+      "sourceFolder": "Bếp",
+      "source": "exec-3dc67559-c2ed-4125-bd38-a948a1eff3da.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 80686
+    },
+    {
+      "path": "banners/v1/category/stove/18.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-3ddb32eb-a95d-4f56-8652-691837ca32e1.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 154398
+    },
+    {
+      "path": "banners/v1/category/stove/19.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-3ff36a59-a741-4a57-986a-bc948641c051.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 100590
+    },
+    {
+      "path": "banners/v1/category/stove/20.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-4b53c5cd-fedc-4c36-9faf-b0fcbde9921b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 164206
+    },
+    {
+      "path": "banners/v1/category/stove/21.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-4f4827aa-74c9-48f5-9a4e-f8c0e6dcc603.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 173212
+    },
+    {
+      "path": "banners/v1/category/stove/22.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-4fff5c46-fa83-483b-af21-c09e147eb601.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 115936
+    },
+    {
+      "path": "banners/v1/category/stove/23.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-57a185ac-8855-4119-bdd4-ab9ed5a76ac9.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 186358
+    },
+    {
+      "path": "banners/v1/category/stove/24.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-5a9f532b-c175-4aee-8ed5-c20c6e7db046.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 112626
+    },
+    {
+      "path": "banners/v1/category/stove/25.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-5aaeb79d-4b5d-4062-814f-00c074303534.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 66210
+    },
+    {
+      "path": "banners/v1/category/stove/26.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-71672f20-d110-4a0f-8051-30a2b10b7cf6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 111126
+    },
+    {
+      "path": "banners/v1/category/stove/27.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-73f1190e-ae68-45aa-af78-a46700e7e8be.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 90046
+    },
+    {
+      "path": "banners/v1/category/stove/28.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-74f9d395-a521-4e75-88da-cd9a9da68873.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 123092
+    },
+    {
+      "path": "banners/v1/category/stove/29.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-753547d1-3fa9-42c1-831d-1bd46d7bbcfc.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 115968
+    },
+    {
+      "path": "banners/v1/category/stove/30.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-771d22a6-caa1-4b46-a29a-ae4761625927.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 95082
+    },
+    {
+      "path": "banners/v1/category/stove/31.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-77ee43b7-7134-4823-a4ff-768e31f4cf81.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 199392
+    },
+    {
+      "path": "banners/v1/category/stove/32.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-7af38d61-9b97-406c-a420-6e7891fe71b2.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 105500
+    },
+    {
+      "path": "banners/v1/category/stove/33.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-81d509bf-afb2-47c0-9f4c-ab0fabad8363.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 125068
+    },
+    {
+      "path": "banners/v1/category/stove/34.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-84273995-c644-4e09-bb69-b91709fd662b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 142542
+    },
+    {
+      "path": "banners/v1/category/stove/35.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-867ec6a6-016a-4c3c-8887-bd7a2046d869.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 110442
+    },
+    {
+      "path": "banners/v1/category/stove/36.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-8dec6a66-e93b-4e54-9338-958256715ee4.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 177278
+    },
+    {
+      "path": "banners/v1/category/stove/37.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-8eb8745d-a1e9-46be-be46-ad22b5b3d3a5.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 119220
+    },
+    {
+      "path": "banners/v1/category/stove/38.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-92ce0d0a-b0c7-415e-8677-9457d7d353fa.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 122454
+    },
+    {
+      "path": "banners/v1/category/stove/39.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-959630ee-7716-4df8-b359-e8d499ae905f.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 119428
+    },
+    {
+      "path": "banners/v1/category/stove/40.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-974461e2-011b-45b4-9042-a55dbdecedd5.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 136866
+    },
+    {
+      "path": "banners/v1/category/stove/41.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-99906cf8-43b8-438a-b41b-c5155d3a78c9.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 120602
+    },
+    {
+      "path": "banners/v1/category/stove/42.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-e3033330-ce0a-49f1-b74d-77e9435552a5.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 59698
+    },
+    {
+      "path": "banners/v1/category/stove/43.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-e56c88b9-83bf-410c-9f78-64b955555f59.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 174652
+    },
+    {
+      "path": "banners/v1/category/stove/44.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-eafe7e31-5060-4b8d-a5c5-b8005b95dced.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 166570
+    },
+    {
+      "path": "banners/v1/category/gas/54.webp",
+      "category": "gas",
+      "sourceFolder": "Bếp",
+      "source": "exec-eb2d8dc7-e02b-46f0-99e7-00657b053bd7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 110704
+    },
+    {
+      "path": "banners/v1/category/stove/45.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-ed1d9bce-9ed5-4db3-bce7-b91d9f3c1455.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 171454
+    },
+    {
+      "path": "banners/v1/category/stove/46.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-edcebbfc-42ae-4af6-a675-65031a782d3a.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 137836
+    },
+    {
+      "path": "banners/v1/category/stove/47.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-ee279e53-c3c0-40cd-886a-acbfeff16a31.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 124882
+    },
+    {
+      "path": "banners/v1/category/stove/48.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-ef3ed996-0891-428f-b291-592c81abc313.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 294824
+    },
+    {
+      "path": "banners/v1/category/stove/49.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-efee4337-3143-4205-9ae4-1239796148e0.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 184984
+    },
+    {
+      "path": "banners/v1/category/stove/50.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-f1cc29e6-d648-4e77-9d58-f083e20726f7.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 172784
+    },
+    {
+      "path": "banners/v1/category/stove/51.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-f438e73d-43f8-4cff-b5df-1f1859ac3466.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 81720
+    },
+    {
+      "path": "banners/v1/category/stove/52.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-f4485ba2-c1fc-4430-9fe2-053a9ae381ae.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 103010
+    },
+    {
+      "path": "banners/v1/category/stove/53.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-f5e8b24d-c0d9-4cee-a5d6-b391b15bbd52.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 96270
+    },
+    {
+      "path": "banners/v1/category/stove/54.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-fcd670a7-a060-45ba-8e55-32354edeac0f.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 140962
+    },
+    {
+      "path": "banners/v1/category/stove/55.webp",
+      "category": "stove",
+      "sourceFolder": "Bếp",
+      "source": "exec-fea6af8b-ebbe-4d31-9527-51fb565b1363.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 94726
+    },
+    {
+      "path": "banners/v1/category/water/01.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-012d129f-f228-45dc-aaff-9b07e1626472.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 106888
+    },
+    {
+      "path": "banners/v1/category/water/02.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-017f665e-b203-4f70-97a7-d57f35ba0c0c.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 133190
+    },
+    {
+      "path": "banners/v1/category/water/03.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-074ee9eb-2163-473f-8089-b36684c06f2d.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 145382
+    },
+    {
+      "path": "banners/v1/category/water/04.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-1a87ee3c-6d0b-4edd-9b02-cf18f88319c9.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 140078
+    },
+    {
+      "path": "banners/v1/category/water/05.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-1e22bd72-d60b-4592-be65-18566a9fab93.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 116040
+    },
+    {
+      "path": "banners/v1/category/water/06.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-319bb57b-1286-4ea6-9332-55a126540d21.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 171902
+    },
+    {
+      "path": "banners/v1/category/water/07.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-3488a99b-6d53-4b91-af4d-71f0540c8157.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 133122
+    },
+    {
+      "path": "banners/v1/category/water/08.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-3697c220-f871-4c7c-aa67-1de08bf35eac.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 300300
+    },
+    {
+      "path": "banners/v1/category/water/09.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-389c66f8-e56d-4000-a71f-3baa3699da9b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 131294
+    },
+    {
+      "path": "banners/v1/category/water/10.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-530f61e6-8f08-4c94-9ae2-6e1d80df5c18.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 150380
+    },
+    {
+      "path": "banners/v1/category/water/11.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-5e630ce8-4482-4228-a96c-31c07db7f821.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 112440
+    },
+    {
+      "path": "banners/v1/category/water/12.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-635f20aa-09a1-4f5f-8222-bb38e4af0270.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 147758
+    },
+    {
+      "path": "banners/v1/category/water/13.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-6467e95d-488f-4ffd-b115-db53698b4e21.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 114190
+    },
+    {
+      "path": "banners/v1/category/water/14.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-6c043b1f-db6a-4cae-abac-3ecbbea94e2b.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 221644
+    },
+    {
+      "path": "banners/v1/category/water/15.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-74fe2de8-96cc-4531-b15e-e6a0476495d6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 127872
+    },
+    {
+      "path": "banners/v1/category/water/16.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-880c900f-4e08-4724-a64b-6110ed6bec36.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 155158
+    },
+    {
+      "path": "banners/v1/category/water/17.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-8e6bf8f0-0860-4ade-a1bb-6ab93bcfb984.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 126424
+    },
+    {
+      "path": "banners/v1/category/water/18.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-9db30347-e719-4334-bbc6-2b16f8970d69.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 169416
+    },
+    {
+      "path": "banners/v1/category/water/19.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-a33cf78f-1e2e-45e3-9ad9-43081edf0cfe.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 121346
+    },
+    {
+      "path": "banners/v1/category/water/20.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-a89b911e-5b85-4417-86a2-b572383ba42f.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 149950
+    },
+    {
+      "path": "banners/v1/category/water/21.webp",
+      "category": "water",
+      "sourceFolder": "Nước uống",
+      "source": "exec-edfeb6c2-c9cc-4827-a3a9-39ac3c769545.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 198396
+    },
+    {
+      "path": "banners/v1/category/accessories/01.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-08bf65ec-6e98-41b7-9567-1a138f0b4f68.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 102410
+    },
+    {
+      "path": "banners/v1/category/accessories/02.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-0b20b35f-fc06-4c7b-95d7-1a9c70700ca3.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 128310
+    },
+    {
+      "path": "banners/v1/category/accessories/03.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-111b448c-dd7a-4c52-b4d7-123a1c04c9da.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 205716
+    },
+    {
+      "path": "banners/v1/category/accessories/04.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-11eedbcb-f4c4-427d-9cf2-663e04b5ae71.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 117308
+    },
+    {
+      "path": "banners/v1/category/accessories/05.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-14c6f471-4e4e-4d19-a58a-5ad2bb54ed4a.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 134002
+    },
+    {
+      "path": "banners/v1/category/accessories/06.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-14f40f1f-5746-42cf-b309-7b5398e730c2.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 113744
+    },
+    {
+      "path": "banners/v1/category/accessories/07.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-1c9b4a44-404f-4695-a498-9c4db5b0c774.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 145140
+    },
+    {
+      "path": "banners/v1/category/accessories/08.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-27b21f4e-0b60-41f3-a653-feaab74cc61d.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 84420
+    },
+    {
+      "path": "banners/v1/category/accessories/09.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-2db3f870-64be-4444-8116-ce893082077e.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 123472
+    },
+    {
+      "path": "banners/v1/category/accessories/10.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-3a52d223-a968-4845-8e1e-55ee22c0a256.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 81932
+    },
+    {
+      "path": "banners/v1/category/accessories/11.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-3acd6d7f-bd70-4926-9d26-4c8dc1e948ea.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 136450
+    },
+    {
+      "path": "banners/v1/category/accessories/12.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-4a19df12-b002-4abc-ba3a-33c163d68fef.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 166084
+    },
+    {
+      "path": "banners/v1/category/accessories/13.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-4e58d083-3c02-4e0e-836e-a6c088909875.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 110190
+    },
+    {
+      "path": "banners/v1/category/accessories/14.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-528ab14c-2413-412b-8704-ff6904da166e.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 126620
+    },
+    {
+      "path": "banners/v1/category/accessories/15.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-5bbf3bbc-9bcb-44e8-8472-05b02a66f959.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 132536
+    },
+    {
+      "path": "banners/v1/category/accessories/16.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-628256bd-26d9-4441-9a6b-1259fcf64f4a.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 134584
+    },
+    {
+      "path": "banners/v1/category/accessories/17.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-6c6681d8-97d8-43f4-b8d1-ff863b04f993.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 237746
+    },
+    {
+      "path": "banners/v1/category/accessories/18.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-79ecd3ba-d6a3-4c58-8a6a-6033f0da7c44.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 91626
+    },
+    {
+      "path": "banners/v1/category/accessories/19.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-7bbd792f-bb3f-4afd-b6bb-9861953a7bc6.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 109874
+    },
+    {
+      "path": "banners/v1/category/accessories/20.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-7cda29ab-a703-41d0-b231-48c4a4849509.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 126080
+    },
+    {
+      "path": "banners/v1/category/accessories/21.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-87489a1c-8df5-4c4a-9c1d-c303a85b97dc.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 107796
+    },
+    {
+      "path": "banners/v1/category/accessories/22.webp",
+      "category": "accessories",
+      "sourceFolder": "Phụ Kiện",
+      "source": "exec-d12a0b98-e8fd-48d5-8b9c-7909b61ed332.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 193770
+    }
+  ]
+}
